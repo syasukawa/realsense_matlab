@@ -1,6 +1,6 @@
-# MatlabによるRealSense D435からの点群処理
+# MatlabによるRealSense D435からの点群の処理
 
-- rgb_pc_and_rgb_dimg.m  
+1. rgb_pc_and_rgb_dimg.m  
 RealSense D435からDepth, RGB, color point cloudを取得するプログラム。  
 
 以下のURLを参考に作成  
