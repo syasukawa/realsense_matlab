@@ -3,7 +3,7 @@
 
 1. rgb_pc_and_rgb_dimg.m  
 RealSense D435からDepth, RGB, color point cloudを取得するプログラム  
-Obtains depth, RGB, and color point cloud from RealSense D435  
+Obtains depth and RGB images, and color point cloud from RealSense D435, respectively  
 https://github.com/syasukawa/realsense_matlab/blob/master/rgb_pc_and_rgb_dimg.m  
 
 - 以下のURLを参考に作成  
